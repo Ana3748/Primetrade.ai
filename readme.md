@@ -40,5 +40,3 @@ Here are the primary tools, libraries, and environments I used to build and anal
 ![Closed pnl distrubution by market sentiment](results/Pnl_distrubution.png)
 ![Average closed pnl across coins and market sentiments](results/Average_pnl.png)
 ![Fear and greed index vs closed pnl](results/Index_closedPnl.png)
-
-*Add your key findings and explanations of your charts here.*
